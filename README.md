@@ -1,6 +1,6 @@
 # SGCM - Sistema Gerenciador de Consultas Médicas
 
-Projeto acadêmico desenvolvido durante o curso de Computação na UFRPE, disciplina de programação com o professor Paulo Silveira em 2017.
+Projeto acadêmico de 2017 desenvolvido enquanto cursava a graduação de Computação na UFRPE.
 
 Esta é uma aplicação em MVC e também com os padrões Facade e Singleton, utiliza lista dinâmica ou array para o armazenamento de dados e interface gráfica com Swing.
 O sistema permite realizar crud das entidades e principalmente gerencia as consultas. Não possui validação de dados e possui algumas restrições de acesso, exceto o perfil administrador.
